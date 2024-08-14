@@ -10,10 +10,10 @@ publication, projection etc, using CSS for styling.
 
 Before you can do this you will need an account on github.
 
-A brief intro to editing with git is in [EDITING.md](EDITING.md)
+A brief intro to editing with git is in [EDITING.md](docs/EDITING.md)
 
 Alternatively you can find info about editing directly in the github web
-interface in [ONLINE_EDITING.md](ONLINE_EDITING.md)
+interface in [ONLINE_EDITING.md](docs/ONLINE_EDITING.md)
 
 ## ukedown format
 
